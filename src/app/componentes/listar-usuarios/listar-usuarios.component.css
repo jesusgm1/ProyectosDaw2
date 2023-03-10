@@ -1,0 +1,29 @@
+.espacio{
+  width: 100%;
+  min-height: calc(100vh - 50px - 100px);
+  }
+
+  .tablita {
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:5%;
+  }
+
+  .mat-mdc-radio-button {
+    margin-left: 16px;
+    background-color:black;
+  }
+
+table {
+  width: 100%;
+  padding:auto;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.centraje {
+     text-align:center;
+}
