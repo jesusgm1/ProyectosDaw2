@@ -1,0 +1,56 @@
+{
+  "canciones": [
+    {
+      "id": "Popping Up",
+      "artista": "Kasumi",
+      "precio": "50",
+      "anno": "2023-03-29T22:00:00.000Z",
+      "cancion": "wm7_n03kjsg"
+    },
+    {
+      "id": "Dive",
+      "artista": "Shizuku",
+      "precio": "150",
+      "anno": "2023-03-20T23:00:00.000Z",
+      "cancion": "wm7_n03kjsg"
+    },
+    {
+      "id": "Dream with you",
+      "artista": "Ayumu",
+      "precio": "150",
+      "anno": "2023-03-21T23:00:00.000Z",
+      "cancion": "SoVBPKTp44Q"
+    },
+    {
+      "id": "Tsugiri Connect",
+      "artista": "Kasumi",
+      "precio": "150",
+      "anno": "2023-03-21T23:00:00.000Z",
+      "cancion": "SoVBPKTp44Q"
+    }
+  ],
+  "Cantantes": [
+    {
+      "id": 1,
+      "nombre": "Kasumi"
+    },
+    {
+      "id": 2,
+      "nombre": "Setsuna"
+    },
+    {
+      "id": 3,
+      "nombre": "Shizuku"
+    },
+    {
+      "id": 4,
+      "nombre": "Ayumu"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "jesus",
+      "contraseña": "a"
+    }
+  ]
+}
